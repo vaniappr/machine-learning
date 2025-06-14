@@ -1,1 +1,1 @@
-
+Given a dataset of 3 classes of iris plants: iris setosa, iris versicolor, and iris virginica with 4 attributes: sepal length and width, and petal length and width (https://archive.ics.uci.edu/ml/datasets/iris). Use the implemented code to find a classifier which can identify whether a record belongs to the class of iris setosa or not.
